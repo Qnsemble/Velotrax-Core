@@ -1,0 +1,15 @@
+# Qnsemble Governance CODEOWNERS
+# Repository: Velotrax-Core / QuHarmonics-Control
+# Maintained by Core, Docs, and Security teams
+
+# 🧠 Core team – core architecture, simulation logic
+/src/                       @Qnsemble/core
+
+# 📘 Docs team – public demos, markdown, governance files
+/docs/                      @Qnsemble/docs
+/public-demo/               @Qnsemble/docs
+README.md                   @Qnsemble/docs
+
+# 🛡️ Security team – CI, workflows, and branch protection
+/.github/workflows/         @Qnsemble/security
+/security/                  @Qnsemble/security
